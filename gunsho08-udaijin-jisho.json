@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/udaijin-jisho-utaawase",
  "yomi": "うだいじんけうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合",
+  "era": "治承3年（1179）10月18日",
+  "author": "主催 藤原兼実／判者 藤原俊成",
+  "desc": "右大臣九条兼実の家で催された歌合。霞・花・郭公・恋・紅葉・述懐・月・旅などの題で、兼実・寂蓮・隆信・頼政らが詠む。判者俊成は自詠には勝負を付けなかった。"
+ },
  "editions": [
   {
    "pid": "1879502",
